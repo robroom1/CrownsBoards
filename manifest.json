@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "packs": [
+    {
+      "id": "boards-001-100",
+      "file": "packs/boards-001-100-v1.crowns",
+      "version": 1,
+      "sha256": "63c3bcf579397aa082791ae8e932567e4727c34196273472f978992abe17b866",
+      "boardCount": 3
+    }
+  ]
+}
