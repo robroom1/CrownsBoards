@@ -1,12 +1,12 @@
 {
-  "contentVersion" : 2,
+  "contentVersion" : 3,
   "packs" : [
     {
-      "boardCount" : 60,
-      "file" : "packs/boards-001-100-v2.crowns",
+      "boardCount" : 61,
+      "file" : "packs/boards-001-100-v3.crowns",
       "id" : "boards-001-100",
-      "sha256" : "8b874aaaebdbea5797847538885080ec2f3181b8cef5233f4f633a4bbf0bd684",
-      "version" : 2
+      "sha256" : "5a63e6a3b756128171b1d5c37afa39227ed99b4aeeaf781d671c2dd16e2f2261",
+      "version" : 3
     }
   ],
   "schemaVersion" : 1
