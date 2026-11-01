@@ -1,5 +1,5 @@
 {
-  "contentVersion" : 8,
+  "contentVersion" : 9,
   "packs" : [
     {
       "boardCount" : 100,
@@ -44,11 +44,11 @@
       "version" : 3
     },
     {
-      "boardCount" : 30,
-      "file" : "packs/boards-601-700-v3.crowns",
+      "boardCount" : 33,
+      "file" : "packs/boards-601-700-v4.crowns",
       "id" : "boards-601-700",
-      "sha256" : "b95082bf8fba40fc076c9843b0e590a2a6ce511a3e9afb8a253c27e95f06b8ed",
-      "version" : 3
+      "sha256" : "60075d91b972969ddf3a90fd26e090460ea59555ca5be32f13627ba661ba499f",
+      "version" : 4
     }
   ],
   "schemaVersion" : 1
