@@ -1,5 +1,5 @@
 {
-  "contentVersion" : 12,
+  "contentVersion" : 13,
   "packs" : [
     {
       "boardCount" : 100,
@@ -17,10 +17,10 @@
     },
     {
       "boardCount" : 100,
-      "file" : "packs/boards-201-300-v1.crowns",
+      "file" : "packs/boards-201-300-v2.crowns",
       "id" : "boards-201-300",
-      "sha256" : "22767c965c7fc398655c3db933c78205148b6b58bf6974008bde920eca22b661",
-      "version" : 1
+      "sha256" : "9c9a1e7dcb2c2920150c5a8a428e117d0d513a88568acc25bbed471f12fb97d4",
+      "version" : 2
     },
     {
       "boardCount" : 100,
